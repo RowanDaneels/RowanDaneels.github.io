@@ -10,6 +10,4 @@ citation: 'Daneels, R., Vandebosch, H., & Walrave, M. (2020). â€œJust for fun?â€
 ---
 This paper is about eudaimonic game experiences among Flemish adolescents.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Daneels, R., Vandebosch, H., & Walrave, M. (2020). ""Just for fun?": An exploration of digital games' potential for eudaimonic media experiences among Flemish adolescents." <i>Journal of Children and Media</i>. 14(3), 285-301.
+[Download paper here - Author's version](http://academicpages.github.io/files/paper1.pdf)
